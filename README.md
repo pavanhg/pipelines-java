@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/devopsuser0079/test/_apis/build/status/pavanhg.pipelines-java?branchName=main)](https://dev.azure.com/devopsuser0079/test/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
